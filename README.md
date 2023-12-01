@@ -26,4 +26,4 @@ achieving high-quality novel view synthesis. With sufficient
 texture such as in scene 6, MD-Splatting achieves a median
 tracking error of 3.39 mm on a cloth of 1 × 1 meters in size.
 
-Code expected: Jan/Feb 2024.
+Code expected: Feb 2024.
